@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Feedback Widget" src=".github/cover.png" width="100%">
+  <img alt="Feedback Widget" src=".github/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
