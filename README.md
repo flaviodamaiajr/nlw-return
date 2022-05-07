@@ -26,6 +26,17 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - <a href="https://vitejs.dev/" alt="vitejs" target="_blank">Vite (React com TS)</a>
 - <a href="https://tailwindcss.com/" alt="TailwindCSS" target="_blank">TailwindCSS</a>
 - <a href="https://headlessui.dev/" alt="HeadlessUI" target="_blank">HeadlessUI</a>
+- <a href="https://jest.io/" alt="Jest IO" target="_blank">Jest - Delightful JavaScript Testing</a>
+
+## 🧱 SOLID
+
+Esse projeto aplica os princípios de SOLID criado por Robert C.
+
+1. Single Responsibility.
+2. Open/Closed.
+3. Liskov Substitution.
+4. Interface Segregation.
+5. Dependency Inversion.
 
 ## 💻 Projeto
 
